@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "44376200248",
+    "project_id": "mirflutter",
+    "storage_bucket": "mirflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44376200248:android:891c20d40378c82cb302cd",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44376200248-7fpbs99tspl45q6nd8h3vbm8nih4att2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firstapp",
+            "certificate_hash": "df7f08a0d997ab567bd1dddbbf26f42a51fd7aaf"
+          }
+        },
+        {
+          "client_id": "44376200248-2uqr0fojf3ianupij2bor8e7kmeh6mln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA99vQ8kfTE7YnMCmYwdydlqlHU759T0Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44376200248-2uqr0fojf3ianupij2bor8e7kmeh6mln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
